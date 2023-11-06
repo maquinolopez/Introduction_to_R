@@ -670,3 +670,20 @@ repeat {
 Through these exercises, you will learn how to implement loops to perform repetitive tasks and understand the importance of efficiency in loop construction.
 
 
+---
+
+---
+
+---
+
+We hope this short introductions provides a solid foundation to start in R programming. If you have any suggestions, comments, or inquiries, please don't hesitate to reach out. 
+
+Please send your thoughts to: [aquino@cimat.mx](mailto:aquino@cimat.mx)
+
+Thank you for participating, and happy coding!
+
+
+
+
+
+
